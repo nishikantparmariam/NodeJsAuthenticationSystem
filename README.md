@@ -1,5 +1,5 @@
-# AuthenticationSystem
-Nodejs, MongoDB and ExpressJs base user login, sign up system
+# Authentication System
+Nodejs, MongoDB and ExpressJs based user login, sign up system.
 # Key Features
 1. Allows only one user with a username.
 2. Uses "bcrypt" for saving password to MongoDB and comparing while login.
