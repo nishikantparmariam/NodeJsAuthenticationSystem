@@ -1,5 +1,5 @@
 # Authentication System
-Nodejs, MongoDB and ExpressJs based user login, sign up system which uses "express-session" module for storing user data in a session.
+Nodejs, MongoDB and ExpressJs based user login, sign up system which uses "express-session" module for storing user data in a session and "EJS" templating engine for dynamic rendering.
 
 # Key Features
 1. Saves new user data to MongoDB.
